@@ -1,10 +1,10 @@
 ---
 path: "/hello-world.html"
 date: "2018-05-21T11:07:40.142Z"
-title: "Hello World"
+title: "မင်္ဂလာပါ"
 author: "Thuya Myo Nyunt"
 author_link: "https://github.com/greenlikeorange"
-tags: ["first"]
+tags: ["welcome"]
 ---
 
 ## မင်္ဂလာပါ

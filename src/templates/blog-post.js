@@ -11,6 +11,7 @@ import '../css/blog-post.css';
 export default function Template({ data, pathContext }) {
   const { markdownRemark: post } = data;
   const { next, prev } = pathContext;
+  console.log(data);
   return (
     <div className="blog-post-container">
       <Helmet title={`Gatsby Blog - ${post.frontmatter.title}`} />
@@ -22,8 +23,8 @@ export default function Template({ data, pathContext }) {
           {post.frontmatter.date}
         </h2>
         <h5>
-          Author: 
-          <a href={post.frontmatter.author_link}>
+          <strong>စာရေးသူ </strong>
+          <a href={post.frontmatter.author_link} target="_blank">
             {post.frontmatter.author}
           </a>
         </h5>
@@ -56,6 +57,8 @@ export const pageQuery = graphql`
         path
         tags
         title
+        author
+        author_link
       }
     }
   }

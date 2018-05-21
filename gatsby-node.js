@@ -60,6 +60,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             path
             tags
             title
+            author
+            author_link
           }
         }
       }
@@ -76,6 +78,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     // Create pages for each markdown file.
     posts.forEach(({ node }, index) => {
+      console.log(node)
       const prev = index === 0 ? false : posts[index - 1].node;
       const next = index === posts.length - 1 ? false : posts[index + 1].node;
       createPage({
