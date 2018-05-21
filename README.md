@@ -1,23 +1,13 @@
-# gatsby-blog-starter-kit
+# blog.jsmyanmar.com
 
-[![Build Status](https://travis-ci.org/DSchau/gatsby-blog-starter-kit.svg?branch=master)](https://travis-ci.org/DSchau/gatsby-blog-starter-kit) [![Greenkeeper badge](https://badges.greenkeeper.io/DSchau/gatsby-blog-starter-kit.svg)](https://greenkeeper.io/)
+This is fork from https://github.com/DSchau/gatsby-blog-starter-kit
 
-Use this starter kit to jump start (or use as a reference) a great blog with [gatsby][gatsby]
+## မင်္ဂလာပါ
 
-![Blog example](./assets/gatsby-blog-starter-kit.png)
+JsMyanmar's blog ကို Js လေ့လာသူ developer များအတွက် ရည်ရွယ်၍ တည်ထောင်လိုက်ပါတယ်။ မည်သူမဆို မိမိ မျှဝေလိုသည့် ကို pull request တင်နိုင်ပါသည်။
+ထို့အတူ မိမိ လေ့လာနေသော အကြောင်းအရာ နှင့် အကြံပေးချက်များ ကိုလဲ pull request တင်နိုင်ပါသည်။
 
-## Features
+## ကျွန်တော်တို့ကို ဘယ်မှာရှာမလဲ
 
-1. Blog post listing with previews for each blog post
-1. Navigation between posts with a previous/next post button
-1. Tags and tag navigation
-1. Responsive images via [gatsby-remark-images][gatsby-remark-images]
-
-## Set up
-
-1. Clone this repo
-1. `yarn`
-1. `yarn start`
-
-[gatsby]: https://www.gatsbyjs.org/
-[gatsby-remark-images]: https://www.gatsbyjs.org/packages/gatsby-remark-images/
+[Facebook Group](https://www.facebook.com/groups/node.js.myanmar/)
+[Telegram Group](https://t.me/jsmyanmar)
