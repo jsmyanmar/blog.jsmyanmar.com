@@ -21,6 +21,12 @@ export default function Template({ data, pathContext }) {
         <h2 className="date">
           {post.frontmatter.date}
         </h2>
+        <h5>
+          Author: 
+          <a href={post.frontmatter.author_link}>
+            {post.frontmatter.author}
+          </a>
+        </h5>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: post.html }}
