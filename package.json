@@ -3,7 +3,7 @@
   "description": "Gatsby blog starter example",
   "version": "1.2.0",
   "author": "Dustin Schau <dustinschau@gmail.com> (https://dustinschau.com)",
-  "repository": "https://github.com/dschau/gatsby-blog-starter-kit",
+  "repository": "https://github.com/jsmyanmar/blog.jsmyanmar.com",
   "dependencies": {
     "gatsby": "~1.9.45",
     "gatsby-link": "~1.6.17",
@@ -23,7 +23,7 @@
     "prettier": "1.10.2"
   },
   "keywords": [
-    "gatsby"
+    "jsmyanmar", "javascript", "myanmar"
   ],
   "license": "MIT",
   "main": "n/a",
