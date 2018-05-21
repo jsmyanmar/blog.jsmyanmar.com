@@ -1,9 +1,5 @@
 {
   "assetsByChunkName": {
-    "path---tags-first": [
-      "path---tags-first-e299aa8a8fcc6e4e53dc.js",
-      "path---tags-first-e299aa8a8fcc6e4e53dc.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d2315fe21738dbb04bfc.js",
       "component---src-pages-index-js-d2315fe21738dbb04bfc.js.map"
@@ -13,24 +9,28 @@
       "component---src-templates-tags-js-d65e014b88a50d2a789c.js.map"
     ],
     "path---tags": [
-      "path---tags-99f596be93a4f731f148.js",
-      "path---tags-99f596be93a4f731f148.js.map"
+      "path---tags-83d18c66e81cdcfa3a78.js",
+      "path---tags-83d18c66e81cdcfa3a78.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---tags-welcome": [
+      "path---tags-welcome-c54d366ff92273eddd2c.js",
+      "path---tags-welcome-c54d366ff92273eddd2c.js.map"
+    ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-20bba58413422640888e.js",
-      "component---src-templates-blog-post-js-20bba58413422640888e.js.map"
+      "component---src-templates-blog-post-js-84fef364bdb2c97146f4.js",
+      "component---src-templates-blog-post-js-84fef364bdb2c97146f4.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-8fdd7120d18066f343de.js",
-      "component---src-layouts-index-js-8fdd7120d18066f343de.js.map"
+      "component---src-layouts-index-js-310f498b455eb4a36d57.js",
+      "component---src-layouts-index-js-310f498b455eb4a36d57.js.map"
     ],
     "path---index": [
-      "path---index-ade65c1e81559e878986.js",
-      "path---index-ade65c1e81559e878986.js.map"
+      "path---index-d4447dd6808a1f07013e.js",
+      "path---index-d4447dd6808a1f07013e.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-98d33e62ecaea5947486.js",
@@ -47,14 +47,14 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2bb4bdcb4d9cae654c04.js",
+      "app-5195e9f698e3013df5d6.js",
       "build-js-styles.css",
-      "app-2bb4bdcb4d9cae654c04.js.map",
+      "app-5195e9f698e3013df5d6.js.map",
       "build-js-styles.css.map"
     ],
     "path---hello-world-html": [
-      "path---hello-world-html-5731fcdcff669f4408ea.js",
-      "path---hello-world-html-5731fcdcff669f4408ea.js.map"
+      "path---hello-world-html-1b46eab005a51a45d50b.js",
+      "path---hello-world-html-1b46eab005a51a45d50b.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
